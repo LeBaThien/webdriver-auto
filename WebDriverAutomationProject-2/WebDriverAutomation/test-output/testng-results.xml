@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18607" started-at="2020-05-17T12:19:43Z" finished-at="2020-05-17T12:20:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18607" started-at="2020-05-17T12:19:43Z" finished-at="2020-05-17T12:20:01Z">
+      <class name="org.web.automation.testcases.TC_014_Login_Wait_Explicit">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:org.web.automation.testcases.TC_014_Login_Wait_Explicit@5034c75a]" name="startBrowser" is-config="true" duration-ms="10035" started-at="2020-05-17T17:49:43Z" finished-at="2020-05-17T17:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:org.web.automation.testcases.TC_014_Login_Wait_Explicit@5034c75a]" name="tc001" duration-ms="7917" started-at="2020-05-17T17:49:53Z" finished-at="2020-05-17T17:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.web.automation.testcases.TC_014_Login_Wait_Explicit@5034c75a]" name="closeBrowser" is-config="true" duration-ms="640" started-at="2020-05-17T17:50:01Z" finished-at="2020-05-17T17:50:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.web.automation.testcases.TC_014_Login_Wait_Explicit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
